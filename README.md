@@ -1,12 +1,12 @@
     4489_byteloader
     
-    * small
-    * portable
-    * self-contained
     * load any number of bytes
     * from any disk position
     * on any connected drive
     * to any memory address
+    * small
+    * portable
+    * self-contained
     * verifies checksums
     * no deadlocks
     * retries on timeouts
